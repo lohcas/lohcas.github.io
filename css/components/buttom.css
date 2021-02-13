@@ -1,13 +1,17 @@
 
-#button {
+.button {
     display: inline-block;
     background-color: #F25A70;
     padding: 18px 20px;
     box-shadow: 5px 5px 0px #000;
     margin-right: 0px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 
-#button:hover{
+.button:hover{
     background-color: #5f2497;
     color: aliceblue;
 
