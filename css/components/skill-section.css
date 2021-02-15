@@ -8,3 +8,11 @@
 .skill-section .main-title {
     margin-bottom: 50px;
 }
+
+.skill-section.-bgBlack{
+    background-color: #000;
+}
+
+.skill-section.-bdFirst{
+    border-bottom: 10px solid #F25A70;
+}
