@@ -1,0 +1,28 @@
+.banner {
+    box-sizing: border-box;
+    background-image: url(../../assets/img/[000180]2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 490px;
+    border-bottom: 10px solid #000;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 30px;
+    display: flex;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+}
+
+.banner .box {
+    margin-bottom: 40px;
+}
+
+.banner .navegation {
+    display: flex;
+    justify-content: space-evenly;
+}
