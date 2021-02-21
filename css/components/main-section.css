@@ -1,18 +1,18 @@
-.skill-section {
+.main-section {
     background-color: #1BBBD0;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #5f2497;
 }
 
-.skill-section .main-title {
+.main-section .main-title {
     margin-bottom: 50px;
 }
 
-.skill-section.-bgBlack{
+.main-section.-bgBlack{
     background-color: #000;
 }
 
-.skill-section.-bdFirst{
+.main-section.-bdFirst{
     border-bottom: 10px solid #1BBBD0;
 }
